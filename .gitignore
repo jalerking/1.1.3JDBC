@@ -14,7 +14,7 @@
 /httpRequests/
 
 # Datasource (настройки подключений к БД локальные)
-/dataSources/
+/.idea/dataSources/
 /dataSources.local.xml
 
 # ==========================================
